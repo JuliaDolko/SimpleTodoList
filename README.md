@@ -1,4 +1,4 @@
-## Todo List App
+## Todo List App (trying React)
 This is a simple Todo List app built with React. It allows you to add, toggle, and delete items from the list.
 
 ## Components
